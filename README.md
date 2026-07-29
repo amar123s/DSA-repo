@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/amar123s/DSA-repo/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/amar123s/DSA-repo/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/amar123s/DSA-repo/tree/master/0217-contains-duplicate) |
 | [1672-richest-customer-wealth](https://github.com/amar123s/DSA-repo/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/amar123s/DSA-repo/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/amar123s/DSA-repo/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/amar123s/DSA-repo/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/amar123s/DSA-repo/tree/master/0217-contains-duplicate) |
 ## Matrix
 |  |
