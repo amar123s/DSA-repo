@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amar123s/DSA-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amar123s/DSA-repo/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/amar123s/DSA-repo/tree/master/0088-merge-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/amar123s/DSA-repo/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/amar123s/DSA-repo/tree/master/1920-build-array-from-permutation) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/amar123s/DSA-repo/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
