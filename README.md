@@ -70,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/amar123s/DSA-repo/tree/master/0709-to-lower-case) |
 | [1768-merge-strings-alternately](https://github.com/amar123s/DSA-repo/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/amar123s/DSA-repo/tree/master/2108-find-first-palindromic-string-in-the-array) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/amar123s/DSA-repo/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
