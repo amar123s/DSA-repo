@@ -93,8 +93,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/amar123s/DSA-repo/tree/master/0234-palindrome-linked-list) |
+| [0901-online-stock-span](https://github.com/amar123s/DSA-repo/tree/master/0901-online-stock-span) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/amar123s/DSA-repo/tree/master/0141-linked-list-cycle) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/amar123s/DSA-repo/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/amar123s/DSA-repo/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/amar123s/DSA-repo/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
