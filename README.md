@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/amar123s/DSA-repo/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/amar123s/DSA-repo/tree/master/0234-palindrome-linked-list) |
 | [0901-online-stock-span](https://github.com/amar123s/DSA-repo/tree/master/0901-online-stock-span) |
 ## Floyd's Cycle Finding Algorithm
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/amar123s/DSA-repo/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/amar123s/DSA-repo/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/amar123s/DSA-repo/tree/master/0901-online-stock-span) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/amar123s/DSA-repo/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
