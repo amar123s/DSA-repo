@@ -7,12 +7,12 @@
 class Solution:
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
         dimater=0
-        def height(TreeNode):
+        def height(root):
             nonlocal dimater
-            if TreeNode is None:
+            if root is None:
                 return 0
-            left_height=height(TreeNode.left)
-            right_height=height(TreeNode.right)
+            left_height=height(root.left)
+            right_height=height(root.right)
             dimater=max(dimater,left_height+right_height)
             return max(left_height,right_height)+1
         height(root)
