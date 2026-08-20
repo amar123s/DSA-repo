@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amar123s/DSA-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amar123s/DSA-repo/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/amar123s/DSA-repo/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/amar123s/DSA-repo/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amar123s/DSA-repo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amar123s/DSA-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amar123s/DSA-repo/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amar123s/DSA-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amar123s/DSA-repo/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/amar123s/DSA-repo/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/amar123s/DSA-repo/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/amar123s/DSA-repo/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/amar123s/DSA-repo/tree/master/0151-reverse-words-in-a-string) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/amar123s/DSA-repo/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amar123s/DSA-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/amar123s/DSA-repo/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amar123s/DSA-repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amar123s/DSA-repo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/amar123s/DSA-repo/tree/master/0225-implement-stack-using-queues) |
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/amar123s/DSA-repo/tree/master/0042-trapping-rain-water) |
 | [0901-online-stock-span](https://github.com/amar123s/DSA-repo/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
