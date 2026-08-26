@@ -61,10 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/amar123s/DSA-repo/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/amar123s/DSA-repo/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amar123s/DSA-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/amar123s/DSA-repo/tree/master/0070-climbing-stairs) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/amar123s/DSA-repo/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2652-sum-multiples](https://github.com/amar123s/DSA-repo/tree/master/2652-sum-multiples) |
 ## Prefix Sum
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/amar123s/DSA-repo/tree/master/0215-kth-largest-element-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/amar123s/DSA-repo/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
