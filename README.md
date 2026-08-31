@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/amar123s/DSA-repo/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/amar123s/DSA-repo/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/amar123s/DSA-repo/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/amar123s/DSA-repo/tree/master/0516-longest-palindromic-subsequence) |
 | [0931-minimum-falling-path-sum](https://github.com/amar123s/DSA-repo/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/amar123s/DSA-repo/tree/master/1143-longest-common-subsequence) |
 ## Math
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/amar123s/DSA-repo/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/amar123s/DSA-repo/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/amar123s/DSA-repo/tree/master/0344-reverse-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/amar123s/DSA-repo/tree/master/0516-longest-palindromic-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amar123s/DSA-repo/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/amar123s/DSA-repo/tree/master/0709-to-lower-case) |
 | [1143-longest-common-subsequence](https://github.com/amar123s/DSA-repo/tree/master/1143-longest-common-subsequence) |
