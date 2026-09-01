@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amar123s/DSA-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amar123s/DSA-repo/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/amar123s/DSA-repo/tree/master/0042-trapping-rain-water) |
+| [0079-word-search](https://github.com/amar123s/DSA-repo/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/amar123s/DSA-repo/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amar123s/DSA-repo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/amar123s/DSA-repo/tree/master/0120-triangle) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/amar123s/DSA-repo/tree/master/0079-word-search) |
 | [0931-minimum-falling-path-sum](https://github.com/amar123s/DSA-repo/tree/master/0931-minimum-falling-path-sum) |
 | [1672-richest-customer-wealth](https://github.com/amar123s/DSA-repo/tree/master/1672-richest-customer-wealth) |
 ## Dynamic Programming
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/amar123s/DSA-repo/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/amar123s/DSA-repo/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/amar123s/DSA-repo/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/amar123s/DSA-repo/tree/master/0344-reverse-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/amar123s/DSA-repo/tree/master/0516-longest-palindromic-subsequence) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/amar123s/DSA-repo/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/amar123s/DSA-repo/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amar123s/DSA-repo/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amar123s/DSA-repo/tree/master/0144-binary-tree-preorder-traversal) |
@@ -245,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/amar123s/DSA-repo/tree/master/0300-longest-increasing-subsequence) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/amar123s/DSA-repo/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
