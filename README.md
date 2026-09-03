@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amar123s/DSA-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amar123s/DSA-repo/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/amar123s/DSA-repo/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/amar123s/DSA-repo/tree/master/0042-trapping-rain-water) |
 | [0079-word-search](https://github.com/amar123s/DSA-repo/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/amar123s/DSA-repo/tree/master/0088-merge-sorted-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/amar123s/DSA-repo/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amar123s/DSA-repo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/amar123s/DSA-repo/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/amar123s/DSA-repo/tree/master/0300-longest-increasing-subsequence) |
