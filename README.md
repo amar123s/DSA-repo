@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/amar123s/DSA-repo/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/amar123s/DSA-repo/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/amar123s/DSA-repo/tree/master/0300-longest-increasing-subsequence) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amar123s/DSA-repo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/amar123s/DSA-repo/tree/master/0416-partition-equal-subset-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/amar123s/DSA-repo/tree/master/0931-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/amar123s/DSA-repo/tree/master/0977-squares-of-a-sorted-array) |
@@ -66,11 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/amar123s/DSA-repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/amar123s/DSA-repo/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/amar123s/DSA-repo/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amar123s/DSA-repo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/amar123s/DSA-repo/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/amar123s/DSA-repo/tree/master/0079-word-search) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amar123s/DSA-repo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/amar123s/DSA-repo/tree/master/0931-minimum-falling-path-sum) |
 | [1672-richest-customer-wealth](https://github.com/amar123s/DSA-repo/tree/master/1672-richest-customer-wealth) |
 ## Dynamic Programming
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amar123s/DSA-repo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/amar123s/DSA-repo/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/amar123s/DSA-repo/tree/master/0300-longest-increasing-subsequence) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amar123s/DSA-repo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0700-search-in-a-binary-search-tree](https://github.com/amar123s/DSA-repo/tree/master/0700-search-in-a-binary-search-tree) |
 ## Counting
 |  |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/amar123s/DSA-repo/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amar123s/DSA-repo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Quickselect
 |  |
 | ------- |
