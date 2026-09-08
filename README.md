@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/amar123s/DSA-repo/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amar123s/DSA-repo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/amar123s/DSA-repo/tree/master/0416-partition-equal-subset-sum) |
+| [0724-find-pivot-index](https://github.com/amar123s/DSA-repo/tree/master/0724-find-pivot-index) |
 | [0931-minimum-falling-path-sum](https://github.com/amar123s/DSA-repo/tree/master/0931-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/amar123s/DSA-repo/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/amar123s/DSA-repo/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/amar123s/DSA-repo/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/amar123s/DSA-repo/tree/master/1480-running-sum-of-1d-array) |
 ## Simulation
 |  |
