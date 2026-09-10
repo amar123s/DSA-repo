@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amar123s/DSA-repo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/amar123s/DSA-repo/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/amar123s/DSA-repo/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/amar123s/DSA-repo/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/amar123s/DSA-repo/tree/master/0724-find-pivot-index) |
 | [0931-minimum-falling-path-sum](https://github.com/amar123s/DSA-repo/tree/master/0931-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/amar123s/DSA-repo/tree/master/0977-squares-of-a-sorted-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/amar123s/DSA-repo/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/amar123s/DSA-repo/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/amar123s/DSA-repo/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/amar123s/DSA-repo/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/amar123s/DSA-repo/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/amar123s/DSA-repo/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/amar123s/DSA-repo/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/amar123s/DSA-repo/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/amar123s/DSA-repo/tree/master/0901-online-stock-span) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/amar123s/DSA-repo/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/amar123s/DSA-repo/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/amar123s/DSA-repo/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
