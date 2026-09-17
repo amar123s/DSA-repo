@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/amar123s/DSA-repo/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/amar123s/DSA-repo/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/amar123s/DSA-repo/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/amar123s/DSA-repo/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/amar123s/DSA-repo/tree/master/0724-find-pivot-index) |
 | [0931-minimum-falling-path-sum](https://github.com/amar123s/DSA-repo/tree/master/0931-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/amar123s/DSA-repo/tree/master/0977-squares-of-a-sorted-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/amar123s/DSA-repo/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/amar123s/DSA-repo/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/amar123s/DSA-repo/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/amar123s/DSA-repo/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/amar123s/DSA-repo/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/amar123s/DSA-repo/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/amar123s/DSA-repo/tree/master/1480-running-sum-of-1d-array) |
 ## Simulation
