@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amar123s/DSA-repo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/amar123s/DSA-repo/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/amar123s/DSA-repo/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/amar123s/DSA-repo/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/amar123s/DSA-repo/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/amar123s/DSA-repo/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/amar123s/DSA-repo/tree/master/0724-find-pivot-index) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/amar123s/DSA-repo/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/amar123s/DSA-repo/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/amar123s/DSA-repo/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/amar123s/DSA-repo/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/amar123s/DSA-repo/tree/master/0516-longest-palindromic-subsequence) |
 | [0931-minimum-falling-path-sum](https://github.com/amar123s/DSA-repo/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/amar123s/DSA-repo/tree/master/1143-longest-common-subsequence) |
@@ -289,10 +291,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/amar123s/DSA-repo/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/amar123s/DSA-repo/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/amar123s/DSA-repo/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/amar123s/DSA-repo/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/amar123s/DSA-repo/tree/master/0494-target-sum) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/amar123s/DSA-repo/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/amar123s/DSA-repo/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
