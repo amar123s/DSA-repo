@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/amar123s/DSA-repo/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/amar123s/DSA-repo/tree/master/0516-longest-palindromic-subsequence) |
 | [0931-minimum-falling-path-sum](https://github.com/amar123s/DSA-repo/tree/master/0931-minimum-falling-path-sum) |
+| [1092-shortest-common-supersequence](https://github.com/amar123s/DSA-repo/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/amar123s/DSA-repo/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/amar123s/DSA-repo/tree/master/0516-longest-palindromic-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amar123s/DSA-repo/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/amar123s/DSA-repo/tree/master/0709-to-lower-case) |
+| [1092-shortest-common-supersequence](https://github.com/amar123s/DSA-repo/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/amar123s/DSA-repo/tree/master/1143-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/amar123s/DSA-repo/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/amar123s/DSA-repo/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [1092-shortest-common-supersequence](https://github.com/amar123s/DSA-repo/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/amar123s/DSA-repo/tree/master/1143-longest-common-subsequence) |
 ## Longest Increasing Subsequence
 |  |
