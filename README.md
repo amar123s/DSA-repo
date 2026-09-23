@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/amar123s/DSA-repo/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/amar123s/DSA-repo/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amar123s/DSA-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/amar123s/DSA-repo/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/amar123s/DSA-repo/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/amar123s/DSA-repo/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/amar123s/DSA-repo/tree/master/0213-house-robber-ii) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/amar123s/DSA-repo/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/amar123s/DSA-repo/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/amar123s/DSA-repo/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/amar123s/DSA-repo/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/amar123s/DSA-repo/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/amar123s/DSA-repo/tree/master/0344-reverse-string) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/amar123s/DSA-repo/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/amar123s/DSA-repo/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/amar123s/DSA-repo/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
