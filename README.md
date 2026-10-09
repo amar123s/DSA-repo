@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/amar123s/DSA-repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/amar123s/DSA-repo/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/amar123s/DSA-repo/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amar123s/DSA-repo/tree/master/0160-intersection-of-two-linked-lists) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/amar123s/DSA-repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/amar123s/DSA-repo/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/amar123s/DSA-repo/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/amar123s/DSA-repo/tree/master/0131-palindrome-partitioning) |
@@ -366,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/amar123s/DSA-repo/tree/master/0322-coin-change) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/amar123s/DSA-repo/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
