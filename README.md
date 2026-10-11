@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/amar123s/DSA-repo/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/amar123s/DSA-repo/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/amar123s/DSA-repo/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/amar123s/DSA-repo/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/amar123s/DSA-repo/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amar123s/DSA-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/amar123s/DSA-repo/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/amar123s/DSA-repo/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/amar123s/DSA-repo/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/amar123s/DSA-repo/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/amar123s/DSA-repo/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -372,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amar123s/DSA-repo/tree/master/0003-longest-substring-without-repeating-characters) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/amar123s/DSA-repo/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
