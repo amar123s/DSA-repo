@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amar123s/DSA-repo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/amar123s/DSA-repo/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amar123s/DSA-repo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/amar123s/DSA-repo/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/amar123s/DSA-repo/tree/master/0128-longest-consecutive-sequence) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/amar123s/DSA-repo/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/amar123s/DSA-repo/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/amar123s/DSA-repo/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/amar123s/DSA-repo/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/amar123s/DSA-repo/tree/master/0268-missing-number) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amar123s/DSA-repo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/amar123s/DSA-repo/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/amar123s/DSA-repo/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/amar123s/DSA-repo/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/amar123s/DSA-repo/tree/master/0131-palindrome-partitioning) |
