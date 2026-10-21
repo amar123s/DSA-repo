@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/amar123s/DSA-repo/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/amar123s/DSA-repo/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/amar123s/DSA-repo/tree/master/0733-flood-fill) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/amar123s/DSA-repo/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0931-minimum-falling-path-sum](https://github.com/amar123s/DSA-repo/tree/master/0931-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/amar123s/DSA-repo/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/amar123s/DSA-repo/tree/master/1046-last-stone-weight) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/amar123s/DSA-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/amar123s/DSA-repo/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/amar123s/DSA-repo/tree/master/0560-subarray-sum-equals-k) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/amar123s/DSA-repo/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Sorting
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/amar123s/DSA-repo/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/amar123s/DSA-repo/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/amar123s/DSA-repo/tree/master/0700-search-in-a-binary-search-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/amar123s/DSA-repo/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/amar123s/DSA-repo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/amar123s/DSA-repo/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/amar123s/DSA-repo/tree/master/0700-search-in-a-binary-search-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/amar123s/DSA-repo/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## DP on Trees
 |  |
 | ------- |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/amar123s/DSA-repo/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amar123s/DSA-repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/amar123s/DSA-repo/tree/master/0493-reverse-pairs) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/amar123s/DSA-repo/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
