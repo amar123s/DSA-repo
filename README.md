@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/amar123s/DSA-repo/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amar123s/DSA-repo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/amar123s/DSA-repo/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/amar123s/DSA-repo/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/amar123s/DSA-repo/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/amar123s/DSA-repo/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/amar123s/DSA-repo/tree/master/0079-word-search) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/amar123s/DSA-repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/amar123s/DSA-repo/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/amar123s/DSA-repo/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/amar123s/DSA-repo/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amar123s/DSA-repo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/amar123s/DSA-repo/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/amar123s/DSA-repo/tree/master/0128-longest-consecutive-sequence) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/amar123s/DSA-repo/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/amar123s/DSA-repo/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/amar123s/DSA-repo/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amar123s/DSA-repo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
