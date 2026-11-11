@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/amar123s/DSA-repo/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/amar123s/DSA-repo/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/amar123s/DSA-repo/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/amar123s/DSA-repo/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/amar123s/DSA-repo/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/amar123s/DSA-repo/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amar123s/DSA-repo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -386,12 +387,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amar123s/DSA-repo/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/amar123s/DSA-repo/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/amar123s/DSA-repo/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/amar123s/DSA-repo/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/amar123s/DSA-repo/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/amar123s/DSA-repo/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/amar123s/DSA-repo/tree/master/0268-missing-number) |
 ## Binary Indexed Tree
 |  |
