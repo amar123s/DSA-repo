@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/amar123s/DSA-repo/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/amar123s/DSA-repo/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/amar123s/DSA-repo/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/amar123s/DSA-repo/tree/master/0062-unique-paths) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/amar123s/DSA-repo/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/amar123s/DSA-repo/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amar123s/DSA-repo/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/amar123s/DSA-repo/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/amar123s/DSA-repo/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/amar123s/DSA-repo/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/amar123s/DSA-repo/tree/master/0079-word-search) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amar123s/DSA-repo/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/amar123s/DSA-repo/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/amar123s/DSA-repo/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/amar123s/DSA-repo/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/amar123s/DSA-repo/tree/master/0131-palindrome-partitioning) |
@@ -452,4 +455,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/amar123s/DSA-repo/tree/master/0014-longest-common-prefix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/amar123s/DSA-repo/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
