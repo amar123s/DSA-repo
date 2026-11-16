@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/amar123s/DSA-repo/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/amar123s/DSA-repo/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/amar123s/DSA-repo/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amar123s/DSA-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/amar123s/DSA-repo/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/amar123s/DSA-repo/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amar123s/DSA-repo/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amar123s/DSA-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/amar123s/DSA-repo/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/amar123s/DSA-repo/tree/master/0316-remove-duplicate-letters) |
 ## Complete Knapsack
 |  |
