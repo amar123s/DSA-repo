@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/amar123s/DSA-repo/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/amar123s/DSA-repo/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/amar123s/DSA-repo/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/amar123s/DSA-repo/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/amar123s/DSA-repo/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/amar123s/DSA-repo/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/amar123s/DSA-repo/tree/master/0056-merge-intervals) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/amar123s/DSA-repo/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/amar123s/DSA-repo/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/amar123s/DSA-repo/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/amar123s/DSA-repo/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amar123s/DSA-repo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/amar123s/DSA-repo/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/amar123s/DSA-repo/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/amar123s/DSA-repo/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/amar123s/DSA-repo/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/amar123s/DSA-repo/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/amar123s/DSA-repo/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/amar123s/DSA-repo/tree/master/0268-missing-number) |
