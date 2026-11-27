@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/amar123s/DSA-repo/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/amar123s/DSA-repo/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/amar123s/DSA-repo/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/amar123s/DSA-repo/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/amar123s/DSA-repo/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/amar123s/DSA-repo/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/amar123s/DSA-repo/tree/master/0088-merge-sorted-array) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/amar123s/DSA-repo/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/amar123s/DSA-repo/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/amar123s/DSA-repo/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/amar123s/DSA-repo/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/amar123s/DSA-repo/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/amar123s/DSA-repo/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/amar123s/DSA-repo/tree/master/1295-find-numbers-with-even-number-of-digits) |
